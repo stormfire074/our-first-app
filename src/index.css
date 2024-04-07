@@ -1,5 +1,6 @@
 *{
   margin: 0;
+  --error-color:red;
 }
 body {
   margin: 0;
